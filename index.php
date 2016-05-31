@@ -30,7 +30,7 @@ padding-top: 20%;
 <body>
 <div>
 <h1>Bike Helper</h1>
-<h3>Web server for application Bike Helper</h3>
+<h3>Web server for Windows Phone application Bike Helper</h3>
 <h4>by Ljuca Faruk</h4>
 </div>
 </body>
